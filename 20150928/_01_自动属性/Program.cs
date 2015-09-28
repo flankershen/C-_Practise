@@ -20,7 +20,8 @@ namespace _01_自动属性
         public int Age
         {
             get;
-            set;        }
+            set;
+        }
     }
 
     class Program
